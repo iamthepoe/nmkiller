@@ -27,4 +27,4 @@ cd src/
 cargo build --release
 ```
 
-Após a compilação, o executável estará disponível no diret<code>target/release</code> com o nome de "nmkiller".
+Após a compilação, o executável estará disponível no diretório <code>target/release</code> com o nome de "nmkiller".
