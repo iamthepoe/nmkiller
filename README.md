@@ -2,7 +2,8 @@
 NodeModulesKiller é uma CLI feita para exterminar suas pastas de node_modules.
 
 <p><code>nmkiller [path]</code> para deletar todas as pastas de um diretório específico.</p>
-<p><code>nmkiller --purge-all</code> para deletar todas as pastas node_modules do sistema.</p>
+
+<p><code>nmkiller --purge-all</code> para deletar todas as pastas node_modules do sistema (ainda não foi completamente desenvolvida).</p>
 
 
 ## Build
@@ -26,4 +27,4 @@ cd src/
 cargo build --release
 ```
 
-Após a compilação, o executável estará disponível no diret <code>target/release</code> com o nome de "nmkiller".
+Após a compilação, o executável estará disponível no diret<code>target/release</code> com o nome de "nmkiller".
